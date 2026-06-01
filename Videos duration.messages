@@ -1,0 +1,49 @@
+# Menu -> File
+menu.file=Файл
+menu.file.exit=Выход из программы
+
+# Menu -> Options
+menu.options=Опции
+menu.options.settings=Настройки
+
+# Menu -> Help
+menu.help=Помощь
+menu.help.help.topics=Справка
+menu.help.about=О программе
+
+# Messages
+path.to.videos=Путь к видосам
+videos=Видосы
+total=Итого
+browse=Обзор
+open.catalog=Выберите каталог
+catalogs=Каталоги
+ok=ОК
+cancel=Отмена
+path=Путь
+date=Дата
+favorites=Избранное
+up=Вверх
+add=Добавить
+change=Изменить
+delete=Удалить
+move.up=Вверх
+move.down=Вниз
+do.you.really.want.to.delete.selected.records=Вы действительно хотите удалить выбранные записи
+move=Перемещение
+select.only.one.row=Выберите только одну запись
+selected.path.is.not.a.directory=Выбранный каталог не является каталогом
+error=Ошибка
+parent.dir.is.not.a.directory=Родительский каталог не является каталогом
+options=Опции
+settings=Настройки
+path.to.media.info=Путь к MediaInfo
+close=Закрыть
+select.all=Выбрать всё
+deselect.all=Убрать всё
+duration=Длительность
+progress=Прогресс
+current.file=Текущий файл
+files.processed=Обработано файлов
+files.selected=Выбрано файлов
+scanning=Сканирование
